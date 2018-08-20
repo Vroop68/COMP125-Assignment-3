@@ -1,0 +1,19 @@
+{
+  "name": "comp125-s2018-lesson8",
+  "version": "0.0.1",
+  "description": "COMP125 Demo for OOP",
+  "main": "index.js",
+  "author": "Tom Tsiliopoulos",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^4.1.1",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "jqueryui": "^1.11.1",
+    "popper.js": "^1.14.3"
+  },
+  "devDependencies": {
+    "@types/jquery": "^3.3.4",
+    "@types/jqueryui": "^1.12.2"
+  }
+}

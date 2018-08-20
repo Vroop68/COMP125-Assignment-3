@@ -1,0 +1,29 @@
+{
+  "systemParams": "win32-x64-64",
+  "modulesFolders": [
+    "node_modules"
+  ],
+  "flags": [],
+  "linkedModules": [],
+  "topLevelPatterns": [
+    "@types/jquery@^3.3.4",
+    "@types/jqueryui@^1.12.2",
+    "bootstrap@^4.1.1",
+    "font-awesome@^4.7.0",
+    "jquery@^3.3.1",
+    "jqueryui@^1.11.1",
+    "popper.js@^1.14.3"
+  ],
+  "lockfileEntries": {
+    "@types/jquery@*": "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.5.tgz#75cfec8c5ee38355d14296ada7e7e2fb8bd3ac2f",
+    "@types/jquery@^3.3.4": "https://registry.yarnpkg.com/@types/jquery/-/jquery-3.3.4.tgz#f1850fb9a70041a14ace4f81a7ed782db8548317",
+    "@types/jqueryui@^1.12.2": "https://registry.yarnpkg.com/@types/jqueryui/-/jqueryui-1.12.2.tgz#8daa7ffa16880c78b1662ff287df058a2aceb651",
+    "bootstrap@^4.1.1": "https://registry.yarnpkg.com/bootstrap/-/bootstrap-4.1.1.tgz#3aec85000fa619085da8d2e4983dfd67cf2114cb",
+    "font-awesome@^4.7.0": "https://registry.yarnpkg.com/font-awesome/-/font-awesome-4.7.0.tgz#8fa8cf0411a1a31afd07b06d2902bb9fc815a133",
+    "jquery@^3.3.1": "https://registry.yarnpkg.com/jquery/-/jquery-3.3.1.tgz#958ce29e81c9790f31be7792df5d4d95fc57fbca",
+    "jqueryui@^1.11.1": "https://registry.yarnpkg.com/jqueryui/-/jqueryui-1.11.1.tgz#8718550705f5568d1199196169094db73b2291bc",
+    "popper.js@^1.14.3": "https://registry.yarnpkg.com/popper.js/-/popper.js-1.14.3.tgz#1438f98d046acf7b4d78cd502bf418ac64d4f095"
+  },
+  "files": [],
+  "artifacts": {}
+}

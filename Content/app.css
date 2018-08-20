@@ -1,0 +1,14 @@
+/* your custom CSS goes here */
+main {
+  margin-top: 4em;
+  margin-bottom: 4em;
+}
+
+nav {
+  opacity: 0.8;
+}
+
+#extraNav {
+ min-height: 40px;
+}
+
