@@ -1,3 +1,5 @@
+// John Knoop 300835103 - COMP125 - Assignment 3
+
 // core module - IIFE
 (function() {
   // App variables
@@ -31,6 +33,7 @@
     XHR.send();
   }
 
+  //parses the paragraphs file
   function loadParagraphs() {
     XHR = new XMLHttpRequest();
     XHR.addEventListener("readystatechange", function() {
@@ -40,7 +43,7 @@
           for (const property in paragraphs) {
             if (paragraphs.hasOwnProperty(property)) {
               let paragraphDiv;
-
+              //switch case for figuring out which paragraph data is injected into what page
               switch (property) {
                 case "homeParagraph":
                   paragraphDiv = document.getElementById("homePara");
@@ -83,10 +86,6 @@
     Main();
   }
 
-  /**
-   * This function is the where the main functionality for our
-   * web app is happening
-   */
   function Main() {
     console.log(`%c App Started...`, "font-weight: bold; font-size: 20px;");
 
